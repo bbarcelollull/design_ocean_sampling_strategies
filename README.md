@@ -28,7 +28,7 @@ Files needed to replicate the same figures are located in the folders [`bathymet
 
 ### Acknowledgments
 
-*Codes written by Bàrbara Barceló-Llull (IMEDEA, Spain) and Elisabet Verger Miralles (UIB-IMEDEA, Spain) in the framework of the FaSt-SWOT project to plan the FaSt-SWOT experiments. These codes are based on the codes developed during the H2020 EuroSea project ([Barceló-Llull, 2023](https://doi.org/10.5281/zenodo.7543697)).*
+*Codes written by Bàrbara Barceló-Llull (IMEDEA, Spain) and Elisabet Verger-Miralles (UIB-IMEDEA, Spain) in the framework of the FaSt-SWOT project to plan the FaSt-SWOT experiments. These codes are based on the codes developed during the H2020 EuroSea project ([Barceló-Llull, 2023](https://doi.org/10.5281/zenodo.7543697)).*
 
 *The FaSt-SWOT project is funded by the Spanish Research Agency and the European Regional Development Fund (AEI/FEDER, UE) under Grant Agreement (PID2021-122417NB-I00)).*
 

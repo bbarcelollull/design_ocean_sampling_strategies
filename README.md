@@ -22,6 +22,9 @@ Example of the information provided by this code:
 
 ![MVP_sampling_strategy_extreme_coordinates_small_region_cropped](https://user-images.githubusercontent.com/46760038/232018124-698ba46b-26cb-4841-ba5a-e8e689da8fb7.png)
 
+### Additional files
+
+Files needed to replicate the same figures are located in the folders [`bathymetry`](https://github.com/bbarcelollull/design_ocean_sampling_strategies/tree/main/bathymetry) and [`swath_swot`](https://github.com/bbarcelollull/design_ocean_sampling_strategies/tree/main/swath_swot).
 
 ### Acknowledgments
 

@@ -1,4 +1,4 @@
-# Design ocean sampling strategies
+# Codes to design ocean sampling strategies
 
 Codes to design ocean sampling strategies with different instruments.
 
